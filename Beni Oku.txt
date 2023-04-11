@@ -1,0 +1,5 @@
+Merhaba
+
+1- Login.php dosyasının içinde 125. Satırda  function mailgonder() altında mail bilgilerinizi eksiksiz giriniz.
+2- Veritabanınızı yükleyin ve vt.php içinde yer alan bilgileri doldurun.
+3- AdminEkle.php dosyasını tarayıcıda açıp üyelik oluşturup kullanmaya başlayın.
